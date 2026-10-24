@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Dart: Ejecutar en terminal integrada",
+      "type": "dart",
+      "request": "launch",
+      "program": "${file}",
+      "console": "terminal",
+      "noDebug": true
+    }
+  ]
+}

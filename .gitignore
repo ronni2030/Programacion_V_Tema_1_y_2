@@ -1,0 +1,45 @@
+
+# Archivos generados por Dart y Flutter
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+coverage/
+
+# Configuracion local de editores
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Archivos locales de Android
+local.properties
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+*.pyc
+*.class
+
+# Documentacion generada
+**/doc/api/
+
+# Archivos de compilacion iOS generados
+**/ios/Flutter/.last_build_id
+
+# Archivos generados de compilacion Android
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# Conservar la configuracion de ejecucion del proyecto Dart
+!hola_entorno/.vscode/
+!hola_entorno/.vscode/launch.json
